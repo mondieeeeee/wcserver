@@ -1,0 +1,11 @@
+{
+  "name": "webapp_project",
+  "version": "1.0.0",
+  "description": "MEVN Stack Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}
